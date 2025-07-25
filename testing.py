@@ -3,4 +3,3 @@ b = int(input("ENter another number: "))
 
 print(f"{a+b} is the answer")
 
-print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
